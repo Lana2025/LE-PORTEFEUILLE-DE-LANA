@@ -507,6 +507,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	.cd-hero-slider h2.tm-text-title-small { font-size: 1.6em; }
 	.tm-textbox-padding { padding: 30px 40px; }
 	.tm-textbox-padding-contact { padding: 30px; }
+	.cd-slider-nav a.navbar-brand { font-size: 2rem; }
 		
 	.grid-item {
 		padding-left: 10px;
@@ -522,6 +523,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	.tm-home-container-bg {	height: 92%; }
 	.tm-footer { padding: 50px 30px 20px; }
 	.tm-copyright-text { width: auto; }
+	.cd-slider-nav a.navbar-brand { font-size: 2rem; }
 }
 
 @media only screen and (min-width: 720px) {
@@ -532,6 +534,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	}
 
 	.tm-copyright-text { margin-top: 0; }
+	.cd-slider-nav a.navbar-brand { font-size: 2rem; }
 }
 
 .tm-sm-margin-b { margin-bottom: 30px; }
@@ -545,6 +548,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	.tm-home-container-bg { height: 92%; }
 	.cd-hero-slider .cd-full-width { padding-top: 0; }
 	.tm-2-col-left { padding-right: 25px; }
+	.cd-slider-nav a.navbar-brand { font-size: 2rem; }
 
 	.tm-2-col-right { 
 		padding-left: 25px; 
@@ -579,7 +583,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 		height: 100px;
 	}
 
-	.cd-slider-nav a.navbar-brand { font-size: 3.5rem; }
+	.cd-slider-nav a.navbar-brand { font-size: 2rem; }
 
 	.tm-navbar-bg { 
 		padding-left: 25px; 
@@ -642,6 +646,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.tm-2-col-textbox-2 { margin-right: 15px; }	
+	.cd-slider-nav a.navbar-brand { font-size: 2rem; }
 }
 
 @media only screen and (max-width: 800px) {
@@ -650,6 +655,7 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
   	background-size: cover;
   }
   .cd-bg-video-wrapper video { display: none; }
+  .cd-slider-nav a.navbar-brand { font-size: 2rem; }
 }
 
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
@@ -660,4 +666,3 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 	  }
 	  .cd-bg-video-wrapper video { display: none; }
 }
-
